@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cafe/static/css/main.3907ecec.chunk.css",
+    "main.js": "/cafe/static/js/main.9d87c69c.chunk.js",
+    "main.js.map": "/cafe/static/js/main.9d87c69c.chunk.js.map",
+    "runtime~main.js": "/cafe/static/js/runtime~main.4685ec86.js",
+    "runtime~main.js.map": "/cafe/static/js/runtime~main.4685ec86.js.map",
+    "static/js/2.8563ccd9.chunk.js": "/cafe/static/js/2.8563ccd9.chunk.js",
+    "static/js/2.8563ccd9.chunk.js.map": "/cafe/static/js/2.8563ccd9.chunk.js.map",
+    "index.html": "/cafe/index.html",
+    "precache-manifest.638d84c12e913be9e4b79fca8a39145a.js": "/cafe/precache-manifest.638d84c12e913be9e4b79fca8a39145a.js",
+    "service-worker.js": "/cafe/service-worker.js",
+    "static/css/main.3907ecec.chunk.css.map": "/cafe/static/css/main.3907ecec.chunk.css.map",
+    "static/media/styles.css": "/cafe/static/media/tcbo.4e20f84f.jpg"
+  }
+}
